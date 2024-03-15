@@ -37,6 +37,8 @@ For this deliverable you will author a series of ADRs based on what you think ar
 #### Deliverable 3 – Develop an architecture model (one or more views) to document the solution architecture for your product and service.  
 You can use UML, Lines/Boxes, or something like C4 to develop this model.  The key aspect of this deliverable is to define the overall architectural components of your proposed solution, along with some high-level technical details.  In addition to the visual model, create a short summary highlighting important aspects associated with your overall solution architecture.
 
+Be sure to address how your solution architecture aligns with balancing key quality attributes such as cost, resiliency, scale, etc.  For example, if your data tier fails, what is the expectation for recovery time. 
+
 **WHAT TO HAND IN:  A pdf that includes a visual model showcasing your proposed software architecture along with text to complement the visual model.  The text can be some concise paragraphs mixed in with the visual models, or the visual models can be annotated with callouts (e.g., a circle with a number in it) that then are described in a table format.** 
 
 ---
