@@ -12,6 +12,7 @@ For this project you will be steering a series of architecture deliverables that
 
 ---
 
+<a id="d1"></a>
 #### Deliverable 1 – Motivate the need/value for the product you will be creating – Start of the “Working Backwards” approach
 
 For this deliverable we will be following the Amazon “Working Backwards” approach.  First start by doing some independent learning/research on the “Working Backwards” approach.  There are many free resources on the web, and even an entire book (with the same title) dedicated to this practice.  The main benefit of this approach is that many products are created with an internal view around what an organization thinks customers need or want.  Once built, they under-deliver on customer expectations. This approach flips the paradigm taking a customer viewpoint to motivate the need for creating a product that is exciting.  For this deliverable you will author:
@@ -24,6 +25,7 @@ For this deliverable we will be following the Amazon “Working Backwards” app
 
 ---
 
+<a id="d2"></a>
 #### Deliverable 2 – Development of 5 important Architecture Decision Records for your new proposed product or service. 
 For this deliverable you will author a series of ADRs based on what you think are the 5 most important decisions that must be made to shape the software architecture. ADRs are used to gain consensus given defining software architecture involves trade-offs.  You can pick a basic ADR template off the web (e.g., https://github.com/pmerson/ADR-template/blob/master/ADR-template.md) for this deliverable.  The main goal of an ADR is that it starts off as clearly identifying an important architectural decision that must be made, along with the context for why that decision is important.  As the ADR process evolves, several candidate decisions are proposed, along with the consequences (both positive and negative) associated with each option.  Ultimately a final decision is made and documented. 
 
@@ -31,6 +33,7 @@ For this deliverable you will author a series of ADRs based on what you think ar
 
 ---
 
+<a id="d3"></a>
 #### Deliverable 3 – Develop an architecture model (one or more views) to document the solution architecture for your product and service.  
 You can use UML, Lines/Boxes, or something like C4 to develop this model.  The key aspect of this deliverable is to define the overall architectural components of your proposed solution, along with some high-level technical details.  In addition to the visual model, create a short summary highlighting important aspects associated with your overall solution architecture.
 
@@ -38,6 +41,7 @@ You can use UML, Lines/Boxes, or something like C4 to develop this model.  The k
 
 ---
 
+<a id="d4"></a>
 #### Deliverable 4 – Create a 5 minute video presentation where you present the proposed solution you created in deliverable 3.  
 An effective architect must have the ability to clearly communicate the technical vision for the architecture to a variety of stakeholders.  For this video you can assume you are presenting to a technical audience. You can record this anyway that you want, but the recording must be internet accessible (you cant submit video files via blackboard).  That said, the videos do not have to be publicly accessible and can be deleted after the course.  Zoom recordings, Youtube posts are all fine and can be password protected or locked down.    
 
